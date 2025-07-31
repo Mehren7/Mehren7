@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?weight=500&color=F70D0D&lines=Hello!+I+am+Mehre+Ansari.)
+![Typing SVG](https://readme-typing-svg.demolab.com/?weight=500&color=2ECC71&lines=Hello!+I+am+Mehre+Ansari+👋.)
 
 ## 🚀 About Me
 - 👩‍💻 Pursuing **ECE** from KPRIT (2026 batch).
