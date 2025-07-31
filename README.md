@@ -112,7 +112,7 @@
 
 <a href="mailto:mehrenansari03@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="30" height="30"/>
-</a>nbsp;&nbsp;|&nbsp;&nbsp;
+</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/sleepy_.eyes.__" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="30" height="30"/> 
