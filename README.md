@@ -126,6 +126,8 @@
   <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" width="30" height="30"/> 
 </a>
 
+![snake gif](https://github.com/Mehren7/Mehren7/blob/output/github-contribution-grid-snake.gif)
+
 
 ---
 
