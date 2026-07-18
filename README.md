@@ -7,7 +7,7 @@
   - 🥈 **Semi-finalist, Smart Internz & NASSCOM'25! Hackton. Amongst top 50 teams out of 200 teams.**
   - 🌟 **Head Coordinator, Tech fest for Aarohan'24.**
   - 💥 **Coordinator, Presentation team for Aarohan'25.**
-- 💬 Ask me about: **HTML, CSS, JavaScript, C, python and Financial growth.**
+- 💬 Ask me about: **Embedded C, python and Financial growth.**
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mehren7-tech&color=blue&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/Mehren7?style=social)
